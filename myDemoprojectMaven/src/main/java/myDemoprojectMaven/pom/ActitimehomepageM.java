@@ -7,6 +7,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class ActitimehomepageM {
+	//Hi All
 	Actions act;
 	@FindBy (xpath = "(//img[@src='/img/default/pixel.gif?hash=1692528820'])[10]")
 	private WebElement report;
